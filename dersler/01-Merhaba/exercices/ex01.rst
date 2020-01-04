@@ -1,0 +1,5 @@
+############
+Exercice 01
+############
+
+Çalistirildiginda terminalde "Merhaba Dünya" yazan bir program yazin.

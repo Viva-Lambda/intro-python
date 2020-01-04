@@ -1,0 +1,7 @@
+############
+Exercice 04
+############
+
+
+Terminalde * karakterinde E harfi yazin. Dikey çizgi 7 yildizdan, yatay
+çizgilerse 5 yildizdan olussun.

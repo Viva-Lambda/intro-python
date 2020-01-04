@@ -1,0 +1,16 @@
+############
+Egzersiz 02
+############
+
+Ozgun bir anahtara atanmis degerler listesine çagrisimli liste veya sözlük
+python'da sozluk denir. Python'da bir sozlugu tanilamanin/deklare etmenin iki
+yolu vardir, :code:`dict` islemini kullanmak veya `{}` islemini kullanmak. Iki
+yontemi de kullanarak su :code:`anahtar <- deger` çiftlerine sahip sozlukleri
+olusturun:
+
+- :code:`isim <- Fatih`
+- :code:`soyisim <- Bulut`
+- :code:`sarki <- 15 kisiye saldirdim`
+
+Egzersizi yapmadan once Python referans sayfasindaki `sozluk
+<https://docs.python.org/3.7/library/stdtypes.html#dict>`_ kismini okuyunuz.

@@ -1,0 +1,21 @@
+############
+Egzersiz 05
+############
+
+Verileri sirali bir sekilde saklamamizi yarayan tipe liste :code:`list`
+deniyor. Python'da liste :code:`list` islemiyle veya :code:`[]`
+karakterleriyle olusturuluyor. Bir liste için iki onemli nokta var. Nasil
+eleman ekleyecegiz, ve bu elemanlari nasil siralayacagiz. Içinde su
+elemanlar olan bir liste olusturun: :code:`23, 456, 8, 23, 1, 86, 44, 13` ve
+bu listeyi su kriterlere gore siralayayacak bir islem tanilayin:
+
+- Eger elemanin mevcut degeri 15'ten kuçuk ise onun karesini alin ve diger
+  elemanlarla karsilastirma degeri olarak onu kullanin.
+
+- Eger degilse, mevcut degerini kullanin.
+
+
+Egzersize baslamadan once lutfen `referansin
+<https://docs.python.org/3.5/library/stdtypes.html#lists>`_ listeler ile
+ilgili bolumunu okuyunuz, ozellikle :code:`sort` isleminin açiklamasina dikkat
+etmenizi tavsiye ederim.

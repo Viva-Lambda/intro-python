@@ -1,0 +1,11 @@
+############
+Egzersiz 06
+############
+
+:code:`mylist=[1,53, 1.3, 4.8, "a", 42j, "oro", ["a", "r"], {"p": 'oo'}]`
+listesindeki ondalik sayilarin toplamini veren bir islem yazin
+
+
+Islemi yazmadan once lutfen `referansin
+<https://docs.python.org//3/library/functions.html#isinstance>`_
+:code:`isinstance` bolumunu okuyunuz.

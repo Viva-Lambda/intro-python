@@ -1,0 +1,22 @@
+############
+Exercice 03
+############
+
+Karakter zincirleriyle is yapmamizi saglayan veri tipi Python'da :code:`str`.
+Bir karakter zincirinin sonuna, basina, veya herhangi bir yerine yeni bir
+karakter zinciri ekleyebiliriz.
+Elinizde iki karakter zinciri var :code:`Bir Küçük` ve :code:`Ev`. 2.
+karakteri, birincisinin:
+
+
+- basina
+
+- sonuna
+
+- ortasina
+
+ekleyin ve her ekleme sirasinda olusan karakter zincirini terminalde gosterin.
+
+Egzersize baslamadan once lutfen :code:`format` ve :code:`str` ile ilgili
+bolumleri `referanstan <https://docs.python.org/3.7/library/stdtypes.html#string-methods>`_
+okuyunuz.
