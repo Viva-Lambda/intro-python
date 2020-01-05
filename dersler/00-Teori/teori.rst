@@ -188,14 +188,14 @@ Hatalar kaçinilmazdir. Onlarla bas etmek için paradigmalar ve gelistirme
 sablonlari kullanilir.
 
 
-Type
+Tip
 -----
 
 Çok uzun mesele, kabaca ilgili degerlerin kurucu unsurlarini, ve uzerine
 yapilabilecek islemleri belirleyen kume.
 
 
-Glossaire
+Sozlukçe
 ==========
 
 .. _`ifade`: 
