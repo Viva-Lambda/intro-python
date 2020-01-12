@@ -1,0 +1,17 @@
+############
+Egzersiz 06
+############
+
+Asagidaki linkteki resmi indirmek için bir program yaziniz.
+:code:`http://www.w3schools.com/css/trolltunga.jpg`
+
+
+Tuyo: url baglantisinda bulunan bir içerigi okumak için, `referansin
+<https://docs.python.org/3.7/library/urllib.request.html#module-urllib.request>`_
+:code:`urllib` ile ilgili olan bolumne bakiniz.
+
+Tuyo: Resim, ikili deger ile kodlanmis bir veri tipidir, yani dosyayi
+yazarken, veya okurken bildigimiz modlarin yanina `b` getirmeniz python için
+zorunludur.
+Ornegin ikili deger ile kodlanmis bir veriyi okumak için :code:`r`
+degil `rb` mod kismina girilmelidir.

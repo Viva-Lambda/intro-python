@@ -1,0 +1,9 @@
+############
+Egzersiz 02
+############
+
+Kullanicidan terminale bir seyler yazmasini isteyen ve bu yazdiklarini
+:code:`ex02.txt` dosyasina kaydetmesini saglayan bir program yazin. 
+`Referansin
+<https://docs.python.org/3.7/tutorial/inputoutput.html#reading-and-writing-files>`_
+ilgili bolumu.

@@ -1,0 +1,8 @@
+############ 
+Egzersiz 03
+############
+
+:code:`ex03.txt` dosyasina :code:`Ikinci satirim` cumlesini ekleyen bir
+program yazin.  `Referansin
+<https://docs.python.org/3.7/tutorial/inputoutput.html#reading-and-writing-files>`_
+ilgili bolumu.

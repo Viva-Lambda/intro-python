@@ -1,0 +1,6 @@
+############
+Egzersiz 04
+############
+
+:code:`ex04.txt` dosyasindaki çift satirlari terminalde gosteren bir program 
+yazin. Çift satirlar derken 0, 2, 4, 6 vs.

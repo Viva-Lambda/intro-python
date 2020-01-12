@@ -1,0 +1,8 @@
+############
+Egzersiz 01
+############
+
+:code:`ex01.txt` dosyasinin içindekileri goruntuleyecek bir program yaziniz.
+`referanstaki
+<https://docs.python.org/3.7/tutorial/inputoutput.html#reading-and-writing-files>`_
+ilgili bolum.

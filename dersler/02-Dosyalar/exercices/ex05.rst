@@ -1,0 +1,59 @@
+############
+Egzersiz 05
+############
+
+Su sartlari saglayan bir program yazin:
+
+Anahtar kelimeler ile dusunmeyi seven biriyim. Oyle bir program olsun ki, ben
+terminalde onu baslatayim, o bana girmek istedigim anahtar kelimeleri hangi
+karakterle ayirmak istedigimi sorsun, sonra da ben anahtar kelimeleri,
+belirttigim karakterle ayrilacak sekilde gireyim. 
+Program "ex05-kelimelerim.txt" diye bir dosya olustursun. O dosyanin sayfa
+duzeni de soyle olsun:
+
+
++=======================================+
+|          Anahtar Kelimeler            |
++=======================================+
+| Boslukla ayrilmis kelimeler           |
++---------------------------------------+
+| Girilen karakterle ayrilmis kelimeler |
++---------------------------------------+
+| Satirlara                             |
++---------------------------------------+
+| Ayiran                                |
++---------------------------------------+
+| Karakterle                            |
++---------------------------------------+
+| Ayrilmis                              |
++---------------------------------------+
+| Kelimeler                             |
++---------------------------------------+
+
+
+Ornegin: Ben ayirici karakter olarak `;` giriyorum, kelimeler olarak da,
+:code:`gazete;1982;kenan;universiteler` yaziyorum, program
+"ex05-kelimelerim.txt" diye bir dosya olusturuyor ve o dosya soyle
+duzenlenmis:
+
+
++=======================================+
+|          Anahtar Kelimeler            |
++=======================================+
+| gazete 1982 kenan universiteler       |
++---------------------------------------+
+| gazete;1982;kenan;universiteler       |
++---------------------------------------+
+| gazete                                |
++---------------------------------------+
+| 1982                                  |
++---------------------------------------+
+| kenan                                 |
++---------------------------------------+
+| universiteler                         |
++---------------------------------------+
+
+
+Tuyo: Kelimeleri kendi girdiginiz ayirici karakterle ayirmak için `referansin
+<https://docs.python.org/3.7/library/stdtypes.html#str.split>`_ :code:`str`
+ile ilgili bolumune bakabilirsiniz.
