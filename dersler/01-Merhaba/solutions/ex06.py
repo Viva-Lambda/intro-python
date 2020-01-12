@@ -4,7 +4,7 @@ Solution de exercice 06
 # license: see, LICENSE
 
 def poly_sum(arr: list):
-    "Comptez la somme d'une liste"
+    "Listedeki sayilarin toplamini verir"
     count = 0
     for a in arr:
         if isinstance(a, (int, float)):

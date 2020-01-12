@@ -5,4 +5,4 @@ Solution de exercice 01
 
 if __name__ == "__main__":
     # point d'entrée
-    print("Hello World")
+    print("Merhaba Dunya")
