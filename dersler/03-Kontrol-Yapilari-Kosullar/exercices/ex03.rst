@@ -1,0 +1,10 @@
+############
+Egzersiz 03
+############
+
+Kullanicinin girdigi sozcuk bulunana kadar :code:`ex03.txt` metninin
+içindekileri gosteren bir program yaziniz. Yani kullanici bir sozcuk giriyor,
+biz :code:`ex03.txt` içindekileri gostermeye basliyoruz, ta ki kullanicinin
+girdigi kelimeyle karsilasincaya kadar. Eger karsilasmazsak, butun içerigi
+gosteriyoruz, eger karsilasirsak gelene kadar ki kismi gosteriyoruz, sonrasini
+gostermiyoruz.

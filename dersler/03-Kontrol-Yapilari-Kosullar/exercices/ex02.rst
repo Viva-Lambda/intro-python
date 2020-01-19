@@ -1,0 +1,30 @@
+############
+Egzersiz 02
+############
+
+Elinizde ogrenciler ve notlarinin oldugu bir liste var. 
+Ogrencinin elindeki notla dersini geçip geçmedigini, geçiyorsa hangi
+unvanla geçtigini gosteren bir program yaziniz.
+
+Unvanlar sunlar:
+
+- Iyi: 14 - 15
+
+- Çok Iyi: 16 - 18
+
+- Geçer: 10 - 13
+
+- Pek Iyi: 19 - 20
+
+- Geçmez: 0 - 9
+
+.. code:: python
+
+    ogrenciler = {"ogrenci15": 0, "ogrenci242": 12, "ogrenci3": 10, 
+                 "ogrenci4135": 14, "ogrenci345": 19,
+                 "ogrenci61": 16, "ogrenci887": 8}
+
+Tuyo: Sozlugun anahtarlari ve degerlerine dair nasil dongu yapabileceginizi 
+gormek için
+`referansa <https://docs.python.org/3.7/library/stdtypes.html#dict.items>`_ 
+bakiniz.

@@ -1,0 +1,21 @@
+###########
+Egzersiz 01
+###########
+
+Kullanicinin girdigi girdinin asagidaki metinde bulunup bulunmadigini
+test eden bir program yaziniz.
+
+.. code:: text
+
+    Gördün mü hiç suyun yanmasını tuzda
+    Gördüm ben bu yaşam boyu iniltiyi
+    Büyük bahçelerin küçük içinde
+    Saksılardan birinde
+    Gördüm de
+    Uyurken uyandırılmış gibi
+    Beni bir sardunya büyüttü belki.
+
+    O ben ki
+    Bir kadında bir çocuk hayaleti mi
+    Bir çocukta bir kadın hayaleti mi
+    Yalnızca bir hayalet mi yoksa.
