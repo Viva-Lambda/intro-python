@@ -7,18 +7,18 @@ import os
 
 if __name__ == "__main__":
     print("Salut ceux qui pensent avec des mots clés")
-    delimit = input("Entrez votre délimiteur: ")
-    mots = input("Entrez les mots avec le délimiteur: ")
+    delimit = input("Ayirici giriniz: ")
+    mots = input("kelimeleri giriniz: ")
     if delimit not in mots:
         raise ValueError(
-            "Les mots ne contiennent pas le délimiteur: " + mots
+            "Ayirici karakter kullanilmamis: " + mots
         )
     #
     savepath = os.path.join("assets", "ex05-mes-mots-clés.txt")
-    mots_separer = mots.split(delimit)
-    mots_espace = " ".join(mots_separer)
+    mots_separer = mots.split(delimit) # "merhaba,burasi,neresi" -> ["merhaba", "burasi", "neresi"]
+    mots_espace = " ".join(mots_separer) # merhaba burasi neresi
     with open(savepath, "w", encoding="utf-8", newline="\n") as fd:
-        fd.write("Mes Mots Clés")
+        fd.write("Dosya Basligi- Anahtar Kelimelerim")
         fd.write("\n")
         fd.write(mots)
         fd.write("\n")
