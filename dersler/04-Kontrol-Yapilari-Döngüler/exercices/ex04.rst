@@ -1,0 +1,12 @@
+###########
+Exercice 04
+###########
+
+Digerlerine gore ilk birazcik daha ciddi programiniz:
+
+:code:`solutions` klasorunde, :code:`liens-image.txt` dosyasi var.
+Bu dosyada çesitli resimlere ait linkler var. Bu linkleri metin dosyasindan
+okuyup, resimleri bilgisayara indiren ve resimlerin bilgisayardaki konumunu
+:code:`mes-images.txt` dosyasina kaydeden bir program yaziniz.
+
+

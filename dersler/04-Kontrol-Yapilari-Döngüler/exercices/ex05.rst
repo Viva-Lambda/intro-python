@@ -1,0 +1,64 @@
+###########
+Exercice 05
+###########
+
+Simdi de ikinci daha ciddi programimiza bakalim:
+
+:code:`solutions` klasorunde, :code:`liens-json.txt` dosyasi var.
+Bu dosya internetteki :code:`json` formatindaki belgelere ait linkler 
+barindiriyor. :code:`json` formati python daki sozluklere bir hayli benzer. 
+Bu formatin python'da nasil okundugu ve degistirildigini gormek için referansin `json sayfasina bakiniz
+<https://docs.python.org/3.7/library/json.html>`_.
+
+Su islemleri gerçeklestiren bir program yaziniz:
+
+- Linklerin oldugu dosya açilir ve satirlarina ayrilir.
+
+- Her satirdaki link için:
+
+  - Link açilir
+
+  - Json dosyasi indirilir.
+
+  - Python sozlugune donusturulur.
+
+  - anahtarinin :code:`title` degeri alinir
+
+  - anahtarinin :code:`id` degeri alinir
+
+  - anahtarinin :code:`bbox` degeri alinir
+
+  - anahtarinin :code:`reprPoint` degeri alinir
+
+  - anahtarinin :code:`description` degeri alinir
+
+  - Su anahtarlara sahip yeni bir sozluk olusturulur:
+
+    - :code:`baslik`
+
+    - :code:`bolge`
+
+    - :code:`nokta`
+
+    - :code:`bilgi`
+
+    - :code:`kayitNo`
+
+  - :code:`title` degeri :code:`baslik`a
+
+  - :code:`bbox` degeri :code:`bolge`ye
+
+  - :code:`reprPoint` degeri :code:`nokta`ya
+
+  - :code:`description` degeri :code:`bilgi`ye
+
+  - :code:`id` degeri :code:`kayitNo`ya atanir.
+
+  - Yeni sozluk :code:`json` formatina donusturulur.
+
+  - Olusturulan :code:`json` dosyasi bir konuma kaydedilir.
+
+  - Konum :code:`mes-dictionnaires.txt` dosyasina eklenir.
+
+Tuyo: json'u pythona donusturmek için :code:`json.loads` komutunu,
+tersini yapmak için :code:`json.dumps` komutun kullanabilirsiniz.

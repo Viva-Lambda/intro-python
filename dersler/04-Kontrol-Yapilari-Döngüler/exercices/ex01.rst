@@ -1,0 +1,13 @@
+############
+Exercice 01
+############
+
+Matrisin iki çapraz ekseninde toplama yapmamizi saglayan bir program yaziniz:
+
+.. code:: python
+
+    matrice = [[3, 6, 9],
+               [86, 123, 76],
+               [33, 56, 4]]
+
+Yani program sunu yapmali :code:`3 + 123 + 4 + 9 + 123 + 33`.
