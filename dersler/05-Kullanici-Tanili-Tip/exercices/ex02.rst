@@ -1,0 +1,6 @@
+############
+Exercice 02
+############
+
+`03-kosullar` haftasindaki 2. egzersizin çozumunu nesne temelli
+programlama metoduyla tekrar yaziniz

@@ -1,0 +1,6 @@
+############
+Exercice 03
+############
+
+`04-Dongu` haftasinin 4. egzersizini nesne temelli programlama metoduyla
+tekrar yaziniz.
