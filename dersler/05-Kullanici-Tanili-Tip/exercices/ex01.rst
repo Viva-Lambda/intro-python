@@ -2,5 +2,5 @@
 Egzersiz 01
 ############
 
-`02-Dosyalar` haftasindaki 1. ve 2. egzersizing çozumunu Nesne temelli
+`02-Dosyalar` haftasindaki 1. ve 2. egzersizin çozumunu Nesne temelli
 programlama metoduyla tekrar yaziniz.
